@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Tiemi Fernandes
-
+# 👋 Hi, I'm Tiemi Nagazawa
 I'm a Frontend Developer passionate about transforming complex ideas into clean, intuitive user experiences. Over the past few years, I’ve had the chance to work on diverse products, from internal tools to global-scale platforms — always with a strong focus on performance, usability, and collaboration.
 
 I enjoy building things that are not just functional, but thoughtful — with accessible interfaces, maintainable code, and a strong attention to detail. I care about the *how* just as much as the *what*, and I believe the best digital products come from teams that communicate well and continuously learn from each other.
