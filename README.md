@@ -4,6 +4,10 @@ I'm a Frontend Developer passionate about transforming complex ideas into clean,
 
 I enjoy building things that are not just functional, but thoughtful — with accessible interfaces, maintainable code, and a strong attention to detail. I care about the *how* just as much as the *what*, and I believe the best digital products come from teams that communicate well and continuously learn from each other.
 
+> 📉 **Note on Contributions**  
+> My contribution graph may look a bit quiet, but that's because most of my daily work happens in **private repositories on Azure DevOps**, which doesn’t sync contribution data with GitHub.  
+> I’m actively coding, collaborating, and delivering features every day — just in a different ecosystem. 🙂
+
 ---
 
 ## 🛠️ Tech Stack & Tools
